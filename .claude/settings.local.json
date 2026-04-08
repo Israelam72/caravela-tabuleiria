@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /Users/israelarantes/Workspace/Learning/projects/caravela/caravela-icon.png /tmp/caravela-icon-backup.png)",
+      "Bash(mkdir -p /Users/israelarantes/Workspace/Learning/projects/caravela/public /Users/israelarantes/Workspace/Learning/projects/caravela/prisma /Users/israelarantes/Workspace/Learning/projects/caravela/app/api/auth/\\\\[...nextauth\\\\] /Users/israelarantes/Workspace/Learning/projects/caravela/app/api/games/\\\\[id\\\\] /Users/israelarantes/Workspace/Learning/projects/caravela/app/api/subscribe /Users/israelarantes/Workspace/Learning/projects/caravela/app/admin/login /Users/israelarantes/Workspace/Learning/projects/caravela/components/admin /Users/israelarantes/Workspace/Learning/projects/caravela/lib /Users/israelarantes/Workspace/Learning/projects/caravela/types)",
+      "Bash(cp /Users/israelarantes/Workspace/Learning/projects/caravela/caravela-icon.png /Users/israelarantes/Workspace/Learning/projects/caravela/public/)",
+      "Bash(gh auth:*)",
+      "Bash(gh api:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)"
+    ]
+  }
+}
